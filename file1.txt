@@ -1,2 +1,4 @@
 This is file1, I need to create Merge conflict, no conflict created
 Updating file1
+
+Making conflict from second Branch
